@@ -1,5 +1,3 @@
-package Ch11;
-
 interface Data {
     public void best(); // 判斷那一科成績較高
     public void failed(); // 判斷那一科成績低於60分
